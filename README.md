@@ -1,2 +1,2 @@
-# Lemonade-Stand-Java
-First Java Project
+# Java-Lemonade-OOP
+First Java OOP Project
