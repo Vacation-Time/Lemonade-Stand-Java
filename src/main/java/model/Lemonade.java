@@ -7,7 +7,7 @@ public class Lemonade {
     private double sugar;
     private int iceCubes;
 
-    private final int CUP = 1;  // how to create a CONSTANT VARIABLE in Java, will NOT be able to reassign.
+    private final int CUP = 1;  // how to create a CONSTANT VARIABLE in Java, using 'final' in front means it will NOT be able to be reassigned.
 
     private double price;
 
